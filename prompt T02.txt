@@ -1,0 +1,5 @@
+ini adalah soal selanjutnya tolong berikan pengerjaan code sesuai dengan soal yang pertama tadi dimana sekarang ditentukan jumlah total data (N), deret stok dan kode kategori barangnya lalu ada diberikan gambar berapa banyak yang tersedia . sekarang buatkan program yang mampu memberikan total stok untuk kategori barang yang diminta
+menurut mu apakah ada model yang perlu ditambahkan untuk soal ini selain itu?
+masih ada yang salah dengan code yang diberikan, tolong sesauia dengan ketentuan yang diminta oleh soal 
+jangan gabungkan semua class dalam 1 file.
+kode harus dibagi menjadi file file kelas yang terpisah

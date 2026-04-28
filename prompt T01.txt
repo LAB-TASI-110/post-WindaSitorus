@@ -1,0 +1,19 @@
+Coba bertindaklah sebagai senior java developer dan instruktur pemrograman. disini saya membutuhkan program java berbasis oop yang bagus untuk menyelesaikan studi kasus sistem logistik bernama del express.
+tolong buatkan program dengan sfesifikasi dan alur logika berikut ini
+1. program akan terus meminta dan menerima inputan secara berulang hingga pengguna mengetikkan END.
+2. setiap siklus input akan membaca kode kota tujuan ( string, misal :MDN, JKT, BLG) dan berat paket butet ( integer)
+3. hitung berat paket ucok menggunakan rumus berikut sesuai dengan ketentuan pada gambar 
+4. Hitung total berat (Berat paket Butet + Berat paket Ucok).
+5. Hitung biaya dasar ongkos kirim dengan mengalikan total berat dengan tarif per kg berdasarkan kota berikut: berdasarkan gamabr
+6. Terapkan potongan harga atau promo logistik berikut jika total berat memenuhi syarat: berdasarkan ketentuan gambar
+7. Cetak struk transaksi, lalu kembali meminta input selanjutnya.
+oiya, KODE HARUS DIBAGI MENJADI FILE-FILE KELAS YANG TERPISAH (misalnya Tarif.java, Transaksi.java, dan DelExpressDriver.java sebagai kelas utama). Jangan gabungkan semua kelas ke dalam satu file. Saya ingin bisa mengkompilasi file tersebut secara individual agar bisa dipelajari langkah demi langkah.
+dan, Setiap kali satu transaksi selesai diproses, program wajib mencetak output "Struk Pembayaran" dengan format detail transaksi yang lengkap. Output wajib mencakup baris-baris ini:
+  * Kota tujuan
+  * Berat paket Butet
+  * Berat paket Ucok
+  * Total berat
+  * Total ongkos kirim (hasil akhir setelah dipotong promo)
+  * Informasi promo yang diperoleh
+- Gunakan java.util.Scanner untuk membaca input. Pastikan program mengeksekusi penghentian proses (exit) secara elegan dan tanpa memunculkan error/exception saat membaca string "END".
+untuk modelnya tolong berikan

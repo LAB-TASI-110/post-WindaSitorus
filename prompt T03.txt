@@ -1,0 +1,15 @@
+sekarang cobalah bertindak sebagai software developer yang berpengalaman dalam merancang sistem informasi bisnis operasional di kampus.
+disini saya ingin membangun sebuah sistem operasional kafetaria IT Del yang lengkap, efisien dan terstruktur dan siap dikembangkan menjadi proyek nyata berbasis web
+jadi, coba rancang sistem yang mampu meranancang sistem yang mendukung seluruh operasional mulai dari pengelolaan menu, transaksi penjualan, stok bahan baku dan laporan operasional harian dan bulanan. dimana cafetaria IT Del ini menyediakan makanan dan minuman .
+tujuan utama dari sistem ini adalah 
+1. mengelola data menu makanan dan minuman
+2. mencatat transaksi penjualan harian
+3. mendukung pembayaran tunai dan non tunai seperti transfer dan QRIS
+4. mengelola data pelanggan seperti dosen, mahasiswa dan staf
+5. menyediakan informasi ketersediaan menu  
+Sistem harus menjelaskan alur proses bisnis secara lengkap mulai dari pemesanan pelanggan, proses pembayaran, pencatatan transaksi
+pelanggan bisa pesan dulu lewat sistem lalu akan ada notifikasi jika pesanan sudah selesai dan pelanggan bisa menjemputnya ke cafetaria
+jadi sistem akan meminta nama pelanggan, lalu pelanggan akan memilih menu yang tersedia di informasi ketersediaan menu, lalu pelanggan memilih metode pembayaran
+untuk librarynya yang saya rekomendasikan import java.util.ArrayList;
+
+import java.util.List
